@@ -1,1 +1,1 @@
-# MiniProject16
+# QR Code Generator
